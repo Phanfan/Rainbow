@@ -1,14 +1,13 @@
-
 body {
-    background-color: #99ff99;
+    background-color:LightGreen;
 }
 h2 {
-    color: #990033;text-align:center;
+    color:DarkRed;text-align:center;
 }
 h3 {
-    color: #990033;text-align:center;
+    color:DarkRed;text-align:center;
 }
 p {
-    color: darkred;
+    color:DarkRed;
 }
 
